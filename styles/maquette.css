@@ -1,0 +1,54 @@
+body {
+    margin:50px;
+    /*background-image: url("https://statbel.fgov.be/sites/default/files/Over_Statbel_FR/Energie.jpg");*/
+    /*background-image: url("http://www.sololearn.com/uploads/css_logo.png");*/
+    /*background-repeat: no-repeat;  /*background image verticaly*/
+    /*background-attachment: fixed;*/
+    /*background-size: cover;*/
+    
+}
+
+body::after {
+    content: "";
+    background-image: url("https://statbel.fgov.be/sites/default/files/Over_Statbel_FR/Energie.jpg");
+    background-repeat: repeat-y;
+    background-attachment:fixed;
+    background-size: cover; 
+    opacity: 0.3;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;   
+  }
+
+hr.separation {
+    size : 1px;
+    width : 100% ;
+    color:rgb(197, 193, 193);
+    align-content: center;
+}
+
+a{
+    color :rgb(106, 106, 192);
+}
+
+h2{
+    text-decoration:underline;  
+}
+.citation{
+    font-size: smaller;
+    text-style: italic;
+    background-color: rgb(235, 171, 171);
+}
+
+.example {
+    background-color: rgb(234, 234, 245);
+}
+
+div.example {
+    padding: 20px;
+}
+
+
