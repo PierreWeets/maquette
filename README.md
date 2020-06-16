@@ -1,3 +1,3 @@
 # maquette
 
-[Energie & Climat](http://www.sampleurl.com)
+cliquer sur le lien [Energie & Climat](https://pierreweets.github.io/maquette/index.html)
