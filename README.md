@@ -13,3 +13,4 @@
   * Headers of different sizes
   * inlaid video from Youtube
   * link to a video
+* use of a [validation tool](https://validator.w3.org/#validate_by_input)
