@@ -4,7 +4,7 @@
 # Exercise
 [Requirements](https://github.com/becodeorg/CRL-Woods-3.21/blob/master/LearningPath/01.The-Field/05.HTML-CSS/3-exercice-html-basic.md)
 
-# Point of interest :
+# Points of interest :
 * mix html & css to get a small front page of a web site
 * Use of 
   * navigation links
